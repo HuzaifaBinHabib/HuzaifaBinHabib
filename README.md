@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Huzaifa Bin Habib</h1> <p align="center">A passionate developer diving deep into blockchain, web, and software development!</p>
+<h1 align="center">Hi 👋, I'm Huzaifa Bin Habib</h1> <p align="center">A passionate developer diving deep into  web, and software development!</p>
 🚀 About Me 
 <br>
-🌱 Currently Learning: Blockchain Development
+🌱 Currently Learning:  large language models (LLMs)
 <br>
 👯 Looking to Collaborate On: MERN/MARN projects and other innovative software development initiatives
 <br>
