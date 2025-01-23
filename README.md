@@ -4,12 +4,15 @@
 🌱 Currently Learning:   (Updating...)
 <br>
 👯 Looking to Collaborate On:
+<br>
     MERN/MARN projects and other innovative software development initiatives, including the integration of LLMs RAG and generative AI
 <br>
 📫 How to Reach Me: 
+<br>
     huzaifabinhabib12577@gmail.com
 <br>
 ⚡ Fun Fact: 
+<br>
     Just trying to do better every day! 😄
 <br>
 🌐 Connect With Me
