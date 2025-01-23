@@ -5,7 +5,7 @@
 <br>
 ♦️ Looking to Collaborate On:
 <br>
-♦️MERN/MARN projects and other innovative software development initiatives, including the integration of LLMs RAG and generative AI
+♦️MERN/MARN projects and other innovative software development initiatives, including integration of LLMs RAG and Generative AI
 <br>
 📫 How to Reach Me: 
     huzaifabinhabib12577@gmail.com
