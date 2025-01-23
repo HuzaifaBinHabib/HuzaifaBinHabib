@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Bin Habib</h1> <p align="center">A passionate developer diving deep into  web, and software development!</p>
 🚀 About Me 
 <br>
-🌱 Currently Learning:  large language models (LLMs)
+🌱 Currently Learning: (Updating...)
 <br>
-👯 Looking to Collaborate On: MERN/MARN projects and other innovative software development initiatives
+👯 Looking to Collaborate On: MERN/MARN projects and other innovative software development initiatives, including the integration of LLMs RAG and generative AI
 <br>
 📫 How to Reach Me: huzaifabinhabib12577@gmail.com
 <br>
