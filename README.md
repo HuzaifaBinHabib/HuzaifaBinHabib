@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Bin Habib</h1>
-<p align="center">A passionate developer diving deep into AI, Generative AI, and software development!</p>
+<p align="center">A passionate developer diving deep into software development and Generative AI!</p>
 🚀 About Me 
 <br>
 🌱 Currently Learning:   (Updating...)
 <br>
 ♦️ Looking to Collaborate On:
 <br>
-♦️ AI-powered software development and MERN projects, integrating LLMs, RAG, and Generative AI for innovative solutions.
+♦️ Software development and MERN projects, integrating LLMs, RAG, and Generative AI for innovative solutions.
 <br>
 📫 How to Reach Me: 
     huzaifabinhabib12577@gmail.com
